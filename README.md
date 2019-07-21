@@ -2,6 +2,6 @@
 
 int main(){
   
-  printf("Hello World!"); //This is the begginning of a colaborative code in C.
+  printf("Hello World!"); //This is the beginning of a colaborative code in C.
 
 }
