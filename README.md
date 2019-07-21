@@ -1,3 +1,7 @@
-# hello-world
-My first code thing
-In this part of the code I added a option to delete data from the customer database.
+#include<stdio.h>
+
+int main(){
+  
+  printf("Hello World!"); //This is the begginning of a colaborative code in C.
+
+}
